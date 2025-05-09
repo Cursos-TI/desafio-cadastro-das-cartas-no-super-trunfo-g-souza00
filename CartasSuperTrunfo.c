@@ -38,7 +38,7 @@ int main() {
     printf("Insira a área: ");
     scanf("%f", &area_1);
 
-    printf("Insira pontos turísticos: ");
+    printf("Insira os pontos turísticos: ");
     scanf("%d", &pontos);
 
     ///Coletando dados da segunda carta///
@@ -56,7 +56,7 @@ int main() {
     printf("Insira a área: ");
     scanf("%f", &area_2);
 
-    printf("Insira pontos turísticos: ");
+    printf("Insira os pontos turísticos: ");
     scanf("%d", &pontos_2);
 
     ///Imprime os dados da primeira carta///
