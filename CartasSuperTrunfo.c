@@ -7,7 +7,8 @@
 //Teste larissa
 
 int main() {
-        ///Definindo as váriaveis da primeira carta///
+        
+    ///Definindo as váriaveis da primeira carta///
     int cidade_1;
     char estado_1[11];
     float pib_1;
